@@ -10,11 +10,18 @@
 
 <br><br>
 
-# Brown Crown - _Theme for Chromium-based Web Browsers_
+# Brown Crown (Theme by I am Programmer)
+
+_Theme for Chromium-based Web Browsers_
 
 Rule your tabs with Brown Crown, a theme that blends earthy tones and royal elegance. Its deep brown shades create a
-sense of stability and warmth, perfect for a cozy yet professional browsing experience. Designed for Google Chrome
-and other Chromium-based web browsers, it’s your crown for digital comfort and class.
+sense of stability and warmth, perfect for a cozy yet professional browsing experience. Designed for Google Chrome and
+other Chromium-based web browsers, it’s your crown for digital comfort and class.
+
+Transform your browsing experience today with this beautiful theme, where minimalism meets elegance. With this
+beautifully designed theme, you can enjoy a more pleasant and productive digital journey.
+
+📢 Feel free to leave feedback 📢
 
 > [!TIP]
 >
