@@ -3,16 +3,18 @@
 <br><br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://iamprogrammer.lk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
+  <a href="https://iamprogrammer.lk/theme_brown_crown">
+    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="iamprogrammer.lk" width="100%">
   </a>
 </div>
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# Brown Crown - _Theme for Chromium-based Web Browsers_
 
-{{PROJECT_DESCRIPTION}}
+Rule your tabs with Brown Crown, a theme that blends earthy tones and royal elegance. Its deep brown shades create a
+sense of stability and warmth, perfect for a cozy yet professional browsing experience. Designed for Google Chrome
+and other Chromium-based web browsers, it’s your crown for digital comfort and class.
 
 > [!TIP]
 >
@@ -199,7 +201,7 @@ See [license][license_md] for more information.
 
 ---
 
-[chromewebstore]: https://chromewebstore.google.com/detail/{{CHROME_EXTENSION_ID}}
+[chromewebstore]: https://chromewebstore.google.com/detail/dgaadhjmmipbbiooiklaapikgadpcfcb
 [releases]: /../../releases
 [extensions]: chrome://extensions
 [chrome]: https://www.google.com/chrome/
