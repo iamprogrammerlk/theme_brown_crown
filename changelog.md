@@ -20,8 +20,8 @@
 
 -->
 
-## v25.10.00 - 2025-10-25
+## v25.10.25 - 2025-10-25
 
 ### Changed
 
-- Used new templating system, https://github.com/iamprogrammerlk/template_chromium_theme
+- Used the new templating system, https://github.com/iamprogrammerlk/template_chromium_theme
