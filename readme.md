@@ -29,7 +29,7 @@ beautifully designed theme, you can enjoy a more pleasant and productive digital
 >
 > ## ⭐ Star This Repository
 >
-> If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
+> If you enjoy this project and my work, please consider supporting me by giving a ⭐ star ⭐ to this repository.
 
 <br>
 <br>
@@ -188,7 +188,7 @@ and be bound by the terms of the [Contributor License Agreement][contributor_lic
 
 # ⚖️ License
 
-This work is distributed under the [MIT License 1.0][license] License.
+This work is distributed under the [MIT License 1.0 (MIT)][license] License.
 
 See [license][license_md] for more information.
 
